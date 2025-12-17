@@ -7,7 +7,7 @@
 echo "=== Script verificare /etc/hosts ==="
 echo "Modificat de: Studentul A"
 echo "======================================"
-echo ""
+echo "modificat modificare modifica etctectetcetcte"
 
 # Funcție pentru verificarea validității unei adrese IP
 # Parametri:
